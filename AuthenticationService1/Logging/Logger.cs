@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AuthenticationService
+namespace AuthenticationService1.Logging
 {
     public class Logger
     {
