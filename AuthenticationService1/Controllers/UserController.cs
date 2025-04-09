@@ -1,4 +1,5 @@
 ﻿
+using AuthenticationService1.Logging;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
